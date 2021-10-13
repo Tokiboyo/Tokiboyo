@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T18:56:39.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="jRBpZclzJQ0t25n5P4pf" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T18:59:56.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="lv7bnyzc6BKrIHnGSP3X" version="15.5.0" type="github">
   <diagram id="-BQnzPH6sDRDAIuHvKMn" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -151,12 +151,6 @@
         </mxCell>
         <mxCell id="vCNVExUbj86zDvZJ_CKW-28" value="Цена" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="z9L3__LiJNUR0CHmwnXq-1" vertex="1">
           <mxGeometry y="50" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="z9L3__LiJNUR0CHmwnXq-4" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="420" as="sourcePoint" />
-            <mxPoint x="510" y="370" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
